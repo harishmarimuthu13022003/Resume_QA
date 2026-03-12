@@ -1,0 +1,14 @@
+fastapi
+uvicorn
+python-multipart
+pypdf
+langchain
+langchain-community
+chromadb
+openai
+python-dotenv
+tiktoken
+langchain-google-genai
+google-generativeai
+langchain-huggingface
+huggingface-huggingface_hub
